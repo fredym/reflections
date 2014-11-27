@@ -19,3 +19,11 @@ change?
 	I can compare (git diff) the changes between my working directory and the
 	staging area to make sure the next commit will contain exactly one logical
 	change unit.
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	When adding new features or making experimental changes. When using branches
+	I can make all the modifications I want without directly modifying the
+	stable version of my work.
