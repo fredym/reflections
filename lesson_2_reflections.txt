@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Git will create a .git hidden directory with some meta-data in it that
+	describes the history of the repository. The initialization is required in
+	order to create the required data structure for the repository.
+
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	The staging area stores changes that are not part of the repository yet but
+	once they are added they cannot be changed as if they were stored in the
+	working folder.
