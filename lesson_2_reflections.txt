@@ -11,3 +11,11 @@ What value do you think it offers?
 	The staging area stores changes that are not part of the repository yet but
 	once they are added they cannot be changed as if they were stored in the
 	working folder.
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+	I can compare (git diff) the changes between my working directory and the
+	staging area to make sure the next commit will contain exactly one logical
+	change unit.
