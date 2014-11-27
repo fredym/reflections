@@ -27,3 +27,10 @@ organized? How would branches help?
 	When adding new features or making experimental changes. When using branches
 	I can make all the modifications I want without directly modifying the
 	stable version of my work.
+
+
+How do the diagrams help you visualize the branch structure?
+
+	Committing is like following, or even better, building roads. Just like a
+	map of the roads makes it easier to understand and navigate the roads, a
+	diagram helps to understand and navigate through the branches.
