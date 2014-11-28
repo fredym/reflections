@@ -41,3 +41,14 @@ the diagram the way we do?
 
 	The result is a merge commit with two parents. Because a merge is the result
 	of joining two or more branches together.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+	One pro is that I don't have to care about doing the merge. Most of the time
+	it will be a pretty straight forward operation. Another pro is that the
+	probability to introduce an error is reduced. The main con is that git can
+	merge lines of code that are not designed to be merged, thus it may be
+	posible to introduce errors. This could be mitigated to some extent by
+	reviewing the contents of the merge commit.
