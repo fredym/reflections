@@ -34,3 +34,10 @@ How do the diagrams help you visualize the branch structure?
 	Committing is like following, or even better, building roads. Just like a
 	map of the roads makes it easier to understand and navigate the roads, a
 	diagram helps to understand and navigate through the branches.
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	The result is a merge commit with two parents. Because a merge is the result
+	of joining two or more branches together.
