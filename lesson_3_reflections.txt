@@ -25,3 +25,10 @@ one instead of another?
 	repository into my computer. I would use branch if I want to start a new
 	development in any git repository, wheter this will add a new feature,
 	improve and existing one or fix a bug.
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+	I can compare my commits to those in the remote repository or test them
+	whithout having a connection to the remote after the sync.
