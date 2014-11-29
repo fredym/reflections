@@ -10,3 +10,18 @@ automatically stay up-to-date with your remote repository?
 
 	Because I might be in the middle of some change and an automatic pull might
 	interfere with this work in progress.
+
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+	Fork is a GitHub specific functionality while clone and branch are
+	operations provided by git. Fork and clone operates on repositories while
+	branch operates on commits. Fork can only be called while connected to the
+	GitHub servers, while clone and branch can be called offline.
+
+	I would use fork if I want to contribute to a public project published at
+	GitHub. I would use clone if I want to have an local copy of any git
+	repository into my computer. I would use branch if I want to start a new
+	development in any git repository, wheter this will add a new feature,
+	improve and existing one or fix a bug.
