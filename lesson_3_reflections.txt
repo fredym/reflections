@@ -32,3 +32,13 @@ stored locally?
 
 	I can compare my commits to those in the remote repository or test them
 	whithout having a connection to the remote after the sync.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+	I would create patches and share them by email. It would be harder to make
+	sure that everyone involved in the project has exactly the same copy of the
+	code. The easier part is that I won't need to learn a lot of commands and
+	options, but I gues this will be less of a problem once I get enough
+	practice.
