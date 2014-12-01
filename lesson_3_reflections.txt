@@ -42,3 +42,18 @@ what would be harder?
 	code. The easier part is that I won't need to learn a lot of commands and
 	options, but I gues this will be less of a problem once I get enough
 	practice.
+
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+	I would like to work in a separate branch when the changes I'm about to make
+	will span a large amount of time or effort and I don't want to mess-up with
+	the work that is being added to master from other contributors.
+
+	Working in a separate branch allows me to try new features or improve the
+	way some code is written or implemented while keeping a stable version in
+	master. While this approach implies some overhead, is the best to
+	collaborate.
+
+	Working directly in master is more suitable when I'm working alone.
